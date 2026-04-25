@@ -20,7 +20,7 @@ ECE @ IIITDM Kurnool • Minor in AI/ML @ IIT Ropar
 - 🤖 **Minor in Artificial Intelligence & Machine Learning — IIT Ropar**
 - 🧠 Passionate about **Deep Learning, NLP, Computer Vision**
 - 💻 Building **AI-powered systems and ML tools**
-- 🧩 Solved **100+ DSA problems on LeetCode**
+- 🧩 Solved **250+ DSA problems on LeetCode**
 
 ---
 
