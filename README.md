@@ -9,7 +9,7 @@ ECE @ IIITDM Kurnool • Minor in AI/ML @ IIT Ropar
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Explorer;Computer+Vision+Researcher;Building+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Deep+Learning+Explorer;Computer+Vision+Researcher;Building+AI+Projects" />
 </p>
 
 ---
