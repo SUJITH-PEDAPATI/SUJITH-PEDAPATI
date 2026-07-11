@@ -1,84 +1,63 @@
-```markdown
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Pedapati%20Sujith&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sujith%20Pedapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">🔬 AI Researcher • Machine Learning Engineer • Computer Vision • Agentic AI</h2>
+<h2 align="center">🔬 AI Researcher • Machine Learning Engineer • Competitive Programmer</h2>
 
 <p align="center">
 Research Intern @ NIT Kurukshetra • B.Tech ECE @ IIITDM Kurnool • Minor in AI & ML @ IIT Ropar
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=850&lines=Research+Intern+%40+NIT+Kurukshetra;Building+AstroNexusAI;AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Engineer;LLMs+%7C+RAG+%7C+Knowledge+Graphs;Multi-Agent+AI+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+NIT+Kurukshetra;685%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+Codeforces;Deep+Learning+with+PyTorch;Computer+Vision+%26+AI+Research;Open+Source+Enthusiast"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 **B.Tech in Electronics & Communication Engineering** — IIITDM Kurnool
-- 🤖 **Minor in Artificial Intelligence & Machine Learning** — IIT Ropar
-- 🔬 **Research Intern** — NIT Kurukshetra
-- 🧠 **Former Research Intern** — NIT Surat
-- 🚀 Currently building **AstroNexusAI**, an AI-powered scientific research assistant
-- 💡 Passionate about **LLMs, RAG, Knowledge Graphs, Computer Vision, Agentic AI and Deep Learning**
+- 🎓 B.Tech in Electronics & Communication Engineering — IIITDM Kurnool
+- 🤖 Minor in Artificial Intelligence & Machine Learning — IIT Ropar
+- 🔬 Research Intern — NIT Kurukshetra
+- 🧠 Former Research Intern — NIT Surat
+- 📜 Completed Short-Term Training on **Deep Learning for Network Security & Threat Detection** — NIT Rourkela
 - 💻 Solved **685+ DSA problems** across coding platforms
-- 🌱 Always exploring cutting-edge AI research and open-source technologies
+- 🔥 Passionate about AI, Deep Learning, Computer Vision, LLMs and PyTorch
+- 🚀 Building AI projects and continuously improving through open-source and hands-on implementations
 
 ---
 
-# 🚀 Current Project
+# 🔬 Research & Training
 
-## 🌌 AstroNexusAI
-
-An intelligent AI-powered research platform for scientific literature and remote sensing.
-
-### Current Features
-
-- 📄 Scientific Paper Intelligence
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🕸️ Knowledge Graph powered by Neo4j
-- 📦 Qdrant Vector Database
-- 🤖 Multi-Agent AI using LangGraph
-- 🛰️ Satellite Image Understanding
-- 👁️ Vision Foundation Models
-- 🔍 Semantic Search
-- 🎤 Voice-enabled AI Assistant
-- 📚 Intelligent Research Paper Retrieval
-- 🐳 Dockerized Architecture
-
----
-
-# 🔬 Research Experience
-
-## 🏛️ National Institute of Technology Kurukshetra
-
-### Research Intern
-
-Working on **AstroNexusAI**
-
+## 🏛️ NIT Kurukshetra
+**Research Intern**
+- AI-powered research systems
 - Retrieval-Augmented Generation
 - Knowledge Graphs
 - Computer Vision
-- Scientific Document Intelligence
-- Multi-Agent AI Systems
-- Remote Sensing Applications
-- Vector Databases
-- Vision Foundation Models
+- Multi-Agent AI
+
+## 🏛️ NIT Surat
+**Research Intern**
+- Mamba State Space Models
+- Deep Learning
+- Efficient Sequence Modeling
+
+## 🏛️ NIT Rourkela
+**Short-Term Training**
+- Deep Learning for Network Security & Threat Detection
+- Network Traffic Analysis
+- Intrusion Detection Concepts
+- AI for Cybersecurity
 
 ---
 
-## 🏛️ National Institute of Technology Surat
+# 🔥 Competitive Programming
 
-### Research Intern
-
-Worked on
-
-- Mamba State Space Models (SSMs)
-- Efficient Sequence Modeling
-- Deep Learning
-- AI Research
+- 🟢 **LeetCode** — 685+ Problems Solved
+- 🟤 **CodeChef** — Best Rank: **1597**
+- 🔵 **Codeforces** — Active Competitive Programmer
+- ⭐ **HackerRank** — 5★ Python
 
 ---
 
@@ -88,50 +67,45 @@ Worked on
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,js,nodejs,express,fastapi,mongodb,postgres,git,github,docker,linux,vscode&perline=9"/>
 </p>
 
-### 🤖 AI & Machine Learning
+**AI/ML:** PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • LangGraph • OpenCV
 
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Hugging Face Transformers
-- LangChain
-- LangGraph
-- OpenCV
-- NLP
-- Deep Learning
-- Computer Vision
+**LLMs & RAG:** Neo4j • Qdrant • Sentence Transformers • Ollama
 
-### 🧠 LLM & RAG
-
-- Retrieval-Augmented Generation
-- Knowledge Graphs
-- Neo4j
-- Qdrant
-- Sentence Transformers
-- Ollama
-- Embedding Models
-- Semantic Search
-
-### 🛠 Tools
-
-- Docker
-- Git
-- GitHub
-- Linux
-- VS Code
-- Jupyter Notebook
-- Postman
-- Streamlit
+**Tools:** Docker • Linux • Git • GitHub • Jupyter • Streamlit • VS Code
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 Deep Learning Journey
+
+- PyTorch Fundamentals
+- CNNs & Transfer Learning
+- Computer Vision
+- Research Paper Implementations
+- Model Optimization
+- Neural Network Experiments
+
+---
+
+# 📌 Featured Repositories
+
+- 🌌 AstroNexusAI
+- 🔥 PyTorch Practice
+- 👁️ OpenCV Practice
+- 🤖 Machine Learning Implementations
+- 📊 Social Media Analytics
+- 📧 AI Email Generator
+- 🌫️ Image Dehazing
+
+---
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUJITH-PEDAPATI&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUJITH-PEDAPATI&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJITH-PEDAPATI&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJITH-PEDAPATI&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
@@ -139,8 +113,7 @@ Worked on
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SUJITH-PEDAPATI&theme=tokyonight&hide_border=true"/>
+<img src="https://ghchart.rshah.org/0F6D31/SUJITH-PEDAPATI"/>
 </p>
 
 ---
@@ -156,146 +129,81 @@ Worked on
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SUJITH-PEDAPATI&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
 
----
-
-# 🧠 Featured Projects
-
-## 🌌 AstroNexusAI ⭐
-
-AI-powered Scientific Research Assistant
-
-- 🧠 Retrieval-Augmented Generation
-- 🕸️ Knowledge Graph
-- 📄 Scientific Literature Intelligence
-- 🛰️ Satellite Image Analysis
-- 🤖 Multi-Agent AI
-- 👁️ Vision Foundation Models
-- 📦 Neo4j + Qdrant
-- 🎤 Voice AI
-- 🐳 Docker Deployment
-
----
-
-## 📊 Social Media Analytics Platform
-
-- Processed **15,000+ social media records**
-- Sentiment Analysis
-- Recommendation Engine
-- Interactive Plotly Dashboard
-- ML-powered Insights
-
----
-
-## 📧 AI Email Generator
-
-- PDF Parsing
-- spaCy NLP
-- Automated Email Drafting
-- Streamlit Interface
-- Intelligent Information Extraction
-
----
-
-## 🌫️ AI Image Dehazing
-
-- Deep Learning
-- Image Restoration
-- Computer Vision
-
----
-
-# 🏆 Achievements
-
-🥇 Research Intern — **NIT Kurukshetra**
-
-🥈 Former Research Intern — **NIT Surat**
-
-🏅 Top **10%** — Summer Analytics 2025 (IIT Guwahati)
-
-🥉 **3rd Prize** — Datathon Hackathon
-
-💻 **685+ DSA Problems Solved**
-
-⭐ **5★ Python** — HackerRank
-
-🏆 **CodeChef Best Rank: 1597**
-
----
-
-# 📚 Currently Learning
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 👁️ Vision Foundation Models
-- 🛰️ Remote Sensing AI
-- 🕸️ Knowledge Graph Reasoning
-- 🧩 Multi-Agent Systems
-- ⚡ Advanced Deep Learning
-
----
-
-# 💻 Coding Profiles
-
-- 🧠 LeetCode — 685+ Problems (Across Platforms)
-- ⭐ HackerRank — 5★ Python
-- ⚡ CodeChef — Competitive Programming
-- 🚀 Codeforces — Competitive Programming
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:pedapatisujith@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pedapati-sujith-100124344/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/SUJITH-PEDAPATI">
-<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=SUJITH-PEDAPATI&theme=matrix&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 💭 Quote
-
-> *"Research is seeing what everybody else has seen and thinking what nobody else has thought."*
-
----
-
-# 🤝 Open to Collaborate
-
-✅ AI Research
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ Computer Vision
-
-✅ Large Language Models
-
-✅ Retrieval-Augmented Generation
-
-✅ Knowledge Graphs
-
-✅ Open Source Projects
-
----
-
-# 👀 Profile Visitors
+# 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SUJITH-PEDAPATI&color=0e75b6&style=flat-square"/>
+  <img src="https://streak-stats.demolab.com?user=SUJITH-PEDAPATI&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUJITH-PEDAPATI&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUJITH-PEDAPATI&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUJITH-PEDAPATI&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUJITH-PEDAPATI&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUJITH-PEDAPATI&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📌 Repository Statistics
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=SUJITH-PEDAPATI&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 📦 Featured Repository Cards
+
+<p align="center">
+
+<a href="https://github.com/SUJITH-PEDAPATI/AstroNexusAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUJITH-PEDAPATI&repo=AstroNexusAI&theme=chartreuse-dark"/>
+</a>
+
+<a href="https://github.com/SUJITH-PEDAPATI/YOUR_PYTORCH_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUJITH-PEDAPATI&repo=YOUR_PYTORCH_REPO&theme=chartreuse-dark"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SUJITH-PEDAPATI/YOUR_OPENCV_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUJITH-PEDAPATI&repo=YOUR_OPENCV_REPO&theme=chartreuse-dark"/>
+</a>
+
+<a href="https://github.com/SUJITH-PEDAPATI/YOUR_ML_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUJITH-PEDAPATI&repo=YOUR_ML_REPO&theme=chartreuse-dark"/>
+</a>
+
 </p>
 
 ---
@@ -303,18 +211,15 @@ AI-powered Scientific Research Assistant
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-<p align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
-```
