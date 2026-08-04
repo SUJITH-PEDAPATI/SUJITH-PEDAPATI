@@ -9,7 +9,7 @@ Research Intern @ NIT Kurukshetra • B.Tech ECE @ IIITDM Kurnool • Minor in A
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+NIT+Kurukshetra;685%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+Codeforces;Deep+Learning+with+PyTorch;Computer+Vision+%26+AI+Research;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+NIT+Kurukshetra;710+%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+Codeforces;Deep+Learning+with+PyTorch;Computer+Vision+%26+AI+Research;Open+Source+Enthusiast"/>
 </p>
 
 ---
