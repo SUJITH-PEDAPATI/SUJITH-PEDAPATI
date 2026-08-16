@@ -54,7 +54,7 @@ Research Intern @ NIT Kurukshetra • B.Tech ECE @ IIITDM Kurnool • Minor in A
 
 # 🔥 Competitive Programming
 
-- 🟢 **LeetCode** — 685+ Problems Solved
+- 🟢 **LeetCode** — 785+ Problems Solved
 - 🟤 **CodeChef** — Best Rank: **1597**
 - 🔵 **Codeforces** — Active Competitive Programmer
 - ⭐ **HackerRank** — 5★ Python
