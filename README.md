@@ -9,7 +9,7 @@ Research Intern @ NIT Kurukshetra • B.Tech ECE @ IIITDM Kurnool • Minor in A
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+NIT+Kurukshetra;710+%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+Codeforces;Deep+Learning+with+PyTorch;Computer+Vision+%26+AI+Research;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+NIT+Kurukshetra;780+%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+Codeforces;Deep+Learning+with+PyTorch;Computer+Vision+%26+AI+Research;Open+Source+Enthusiast"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@ Research Intern @ NIT Kurukshetra • B.Tech ECE @ IIITDM Kurnool • Minor in A
 - 🔬 Research Intern — NIT Kurukshetra
 - 🧠 Former Research Intern — NIT Surat
 - 📜 Completed Short-Term Training on **Deep Learning for Network Security & Threat Detection** — NIT Rourkela
-- 💻 Solved **685+ DSA problems** across coding platforms
+- 💻 Solved **780+ DSA problems** across coding platforms
 - 🔥 Passionate about AI, Deep Learning, Computer Vision, LLMs and PyTorch
 - 🚀 Building AI projects and continuously improving through open-source and hands-on implementations
 
